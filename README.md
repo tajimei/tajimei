@@ -25,7 +25,7 @@
 | **get_next_line** | ファイルディスクリプタから1行ずつ読み込む関数を実装 | [GitHub](https://github.com/tajimei/get_next_line.git) |
 | **push_swap** | スタック操作のみで整数列をソートするアルゴリズム課題。最適化手法を比較・学習 | [GitHub](https://github.com/tajimei/push_swap.git) |
 | **python_module** | Pythonの基礎を学習 | [GitHub](https://github.com/tajimei/python_module.git) |
-| **a_maze_ing** | Pythonで迷路生成器を実装。再帰的バックトラッカーによる生成、BFS最短経路探索、ASCII表示、pipパッケージ化まで一貫して開発。| |
+| **a_maze_ing** | Pythonで迷路生成器を実装。再帰的バックトラッカーによる生成、BFS最短経路探索、ASCII表示、pipパッケージ化まで一貫して開発。|[GitHub](https://github.com/tajimei/amazing.git) |
 
 ---
 
